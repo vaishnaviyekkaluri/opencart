@@ -1,0 +1,80 @@
+2024-06-27 17:07:41,804 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\vyshu\eclipse-workspace\Opencart\master.xml
+
+2024-06-27 17:07:56,532 INFO t.TC001_AccountRegistrationTest [main] ** starting tc001**
+2024-06-27 17:07:59,401 INFO t.TC001_AccountRegistrationTest [main] clicked on m register link
+2024-06-27 17:08:01,418 INFO t.TC001_AccountRegistrationTest [main] providing customer details
+2024-06-27 17:08:27,848 INFO t.TC002_LoginTest [main] /**starting TC002
+2024-06-27 17:08:29,108 INFO t.TC002_LoginTest [main] Finished login test.....
+2024-06-27 18:43:22,149 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\vyshu\eclipse-workspace\Opencart\master.xml
+
+2024-06-27 18:44:13,419 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\vyshu\eclipse-workspace\Opencart\master.xml
+
+2024-06-27 18:44:26,859 INFO t.TC001_AccountRegistrationTest [main] ** starting tc001**
+2024-06-27 18:44:29,323 INFO t.TC001_AccountRegistrationTest [main] clicked on m register link
+2024-06-27 18:44:31,331 INFO t.TC001_AccountRegistrationTest [main] providing customer details
+2024-06-27 18:44:57,145 INFO t.TC002_LoginTest [main] /**starting TC002
+2024-06-27 18:44:58,514 INFO t.TC002_LoginTest [main] Finished login test.....
+2024-06-27 18:49:36,129 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\vyshu\eclipse-workspace\Opencart\master.xml
+
+2024-06-27 18:49:50,274 INFO t.TC001_AccountRegistrationTest [main] ** starting tc001**
+2024-06-27 18:49:52,764 INFO t.TC001_AccountRegistrationTest [main] clicked on m register link
+2024-06-27 18:49:54,779 INFO t.TC001_AccountRegistrationTest [main] providing customer details
+2024-06-27 18:50:20,852 INFO t.TC002_LoginTest [main] /**starting TC002
+2024-06-27 18:50:22,156 INFO t.TC002_LoginTest [main] Finished login test.....
+2024-06-27 18:50:35,532 INFO t.TC003_LoginDDT [main] /**starting TC003
+2024-06-27 18:50:36,955 INFO t.TC003_LoginDDT [main] /**ended TC003
+2024-06-27 18:50:36,960 INFO t.TC003_LoginDDT [main] /**starting TC003
+2024-06-27 18:50:58,061 INFO t.TC003_LoginDDT [main] /**starting TC003
+2024-06-27 18:51:19,246 INFO t.TC003_LoginDDT [main] /**starting TC003
+2024-06-27 18:54:11,507 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\vyshu\eclipse-workspace\Opencart\test-output\testng-failed.xml
+
+2024-06-27 18:54:25,951 INFO t.TC003_LoginDDT [main] /**starting TC003
+2024-06-27 18:54:47,415 INFO t.TC003_LoginDDT [main] /**starting TC003
+2024-06-27 18:55:08,617 INFO t.TC003_LoginDDT [main] /**starting TC003
+2024-06-27 19:47:13,240 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\vyshu\eclipse-workspace\Opencart\master.xml
+
+2024-06-27 19:47:59,542 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\vyshu\eclipse-workspace\Opencart\master.xml
+
+2024-06-27 19:48:13,856 INFO t.TC001_AccountRegistrationTest [main] ** starting tc001**
+2024-06-27 19:50:10,961 INFO t.TC001_AccountRegistrationTest [main] clicked on m register link
+2024-06-27 19:50:12,969 INFO t.TC001_AccountRegistrationTest [main] providing customer details
+2024-06-27 19:50:31,462 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\vyshu\eclipse-workspace\Opencart\master.xml
+
+2024-06-27 19:53:13,035 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\vyshu\eclipse-workspace\Opencart\master.xml
+
+2024-06-27 19:55:01,742 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\vyshu\eclipse-workspace\Opencart\master.xml
+
+2024-06-27 19:58:07,324 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\vyshu\eclipse-workspace\Opencart\master.xml
+
+2024-06-27 20:06:06,387 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\vyshu\eclipse-workspace\Opencart\master.xml
+
+2024-06-27 20:06:49,815 INFO t.TC003_LoginDDT [main] /**starting TC003
+2024-06-27 20:06:51,561 INFO t.TC003_LoginDDT [main] /**ended TC003
+2024-06-27 20:06:51,569 INFO t.TC003_LoginDDT [main] /**starting TC003
+2024-06-27 20:06:51,666 INFO t.TC003_LoginDDT [main] /**starting TC003
+2024-06-27 20:06:51,749 INFO t.TC003_LoginDDT [main] /**starting TC003
+2024-06-27 20:07:02,946 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\vyshu\eclipse-workspace\Opencart\master.xml
+
+2024-06-27 20:07:16,020 INFO t.TC001_AccountRegistrationTest [main] ** starting tc001**
+2024-06-27 20:07:18,779 INFO t.TC001_AccountRegistrationTest [main] clicked on m register link
+2024-06-27 20:07:20,786 INFO t.TC001_AccountRegistrationTest [main] providing customer details
+2024-06-27 20:07:46,790 INFO t.TC002_LoginTest [main] /**starting TC002
+2024-06-27 20:07:48,445 INFO t.TC002_LoginTest [main] Finished login test.....
+2024-06-27 20:08:02,062 INFO t.TC003_LoginDDT [main] /**starting TC003
+2024-06-27 20:08:03,987 INFO t.TC003_LoginDDT [main] /**ended TC003
+2024-06-27 20:08:03,996 INFO t.TC003_LoginDDT [main] /**starting TC003
+2024-06-27 20:08:25,164 INFO t.TC003_LoginDDT [main] /**starting TC003
+2024-06-27 20:08:46,498 INFO t.TC003_LoginDDT [main] /**starting TC003

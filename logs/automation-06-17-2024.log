@@ -1,0 +1,133 @@
+2024-06-17 10:26:07,575 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-06-17 10:26:07,581 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2024-06-17 10:26:07,582 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-06-17 10:26:07,583 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-17 10:26:07,583 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-06-17 10:26:07,583 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-17 10:26:07,584 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-06-17 10:26:07,584 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-17 10:26:07,587 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2024-06-17 10:26:07,597 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 10 ms.
+2024-06-17 10:26:07,598 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-06-17 10:26:07,599 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-17 10:26:07,600 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-06-17 10:26:07,600 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-17 10:26:07,600 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-06-17 10:26:07,601 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-17 10:26:07,602 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-06-17 10:26:07,602 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-17 10:26:07,602 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-06-17 10:26:07,602 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-17 10:26:07,605 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-06-17 10:26:07,605 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-17 10:26:07,605 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-06-17 10:26:07,605 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-17 10:26:07,606 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2024-06-17 10:26:07,606 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-17 10:26:07,609 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-06-17 10:26:07,609 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-17 10:26:07,609 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-06-17 10:26:07,609 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-06-17 10:26:07,621 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\vyshu\AppData\Local\Temp\testng-eclipse--1779863605\testng-customsuite.xml
+
+2024-06-17 10:26:07,642 INFO o.t.i.Utils [main] [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+2024-06-17 10:26:07,660 INFO t.TC001_AccountRegistrationTest [main] asad
+2024-06-17 10:26:09,930 INFO t.TC001_AccountRegistrationTest [main] ** starting tc001**
+2024-06-17 10:26:14,402 INFO t.TC001_AccountRegistrationTest [main] clicked on m register link
+2024-06-17 10:26:16,409 INFO t.TC001_AccountRegistrationTest [main] providing customer details
+2024-06-17 10:26:29,723 INFO o.t.i.Utils [main] [TestNG] Time taken by org.testng.reporters.jq.Main@dcc6211: 125 ms
+2024-06-17 10:26:29,723 INFO o.t.i.Utils [main] [TestNG] Time taken by org.testng.reporters.FailedReporter@47ec7422: 0 ms
+2024-06-17 10:26:29,739 INFO o.t.i.Utils [main] [TestNG] Time taken by org.testng.reporters.XMLReporter@33b082c5: 16 ms
+2024-06-17 10:26:29,755 INFO o.t.i.Utils [main] [TestNG] Time taken by org.testng.reporters.EmailableReporter2@289fdb08: 0 ms
+2024-06-17 10:26:29,755 INFO o.t.i.Utils [main] [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@7ce9e05a: 0 ms
+2024-06-17 10:26:29,755 INFO o.t.i.Utils [main] [TestNG] Time taken by org.testng.internal.ExitCodeListener@4992613f: 0 ms
+2024-06-17 17:15:56,810 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\vyshu\eclipse-workspace\Opencart\master.xml
+
+2024-06-17 17:16:09,362 INFO t.TC001_AccountRegistrationTest [main] ** starting tc001**
+2024-06-17 17:16:14,051 INFO t.TC001_AccountRegistrationTest [main] clicked on m register link
+2024-06-17 17:16:16,058 INFO t.TC001_AccountRegistrationTest [main] providing customer details
+2024-06-17 17:21:54,134 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\vyshu\eclipse-workspace\Opencart\crosssBroserTesting.xml
+
+2024-06-17 17:22:01,226 INFO t.TC001_AccountRegistrationTest [main] ** starting tc001**
+2024-06-17 17:22:06,244 INFO t.TC001_AccountRegistrationTest [main] clicked on m register link
+2024-06-17 17:22:08,254 INFO t.TC001_AccountRegistrationTest [main] providing customer details
+2024-06-17 17:25:26,565 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\vyshu\eclipse-workspace\Opencart\master.xml
+
+2024-06-17 17:25:29,544 INFO t.TC001_AccountRegistrationTest [main] ** starting tc001**
+2024-06-17 17:25:34,504 INFO t.TC001_AccountRegistrationTest [main] clicked on m register link
+2024-06-17 17:25:36,519 INFO t.TC001_AccountRegistrationTest [main] providing customer details
+2024-06-17 17:26:05,703 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\vyshu\eclipse-workspace\Opencart\crosssBroserTesting.xml
+
+2024-06-17 17:26:08,855 INFO t.TC001_AccountRegistrationTest [main] ** starting tc001**
+2024-06-17 17:26:13,528 INFO t.TC001_AccountRegistrationTest [main] clicked on m register link
+2024-06-17 17:26:15,545 INFO t.TC001_AccountRegistrationTest [main] providing customer details
+2024-06-17 17:26:33,589 INFO t.TC001_AccountRegistrationTest [main] ** starting tc001**
+2024-06-17 17:26:38,400 INFO t.TC001_AccountRegistrationTest [main] clicked on m register link
+2024-06-17 17:26:40,408 INFO t.TC001_AccountRegistrationTest [main] providing customer details
+2024-06-17 17:49:15,993 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\vyshu\eclipse-workspace\Opencart\master.xml
+
+2024-06-17 17:49:19,126 INFO t.TC001_AccountRegistrationTest [main] ** starting tc001**
+2024-06-17 17:49:23,839 INFO t.TC001_AccountRegistrationTest [main] clicked on m register link
+2024-06-17 17:49:25,849 INFO t.TC001_AccountRegistrationTest [main] providing customer details
+2024-06-17 20:00:24,387 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\vyshu\eclipse-workspace\Opencart\master.xml
+
+2024-06-17 20:00:29,186 INFO t.TC002_LoginTest [main] /**starting TC002
+2024-06-17 20:02:19,680 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\vyshu\eclipse-workspace\Opencart\master.xml
+
+2024-06-17 20:02:23,744 INFO t.TC002_LoginTest [main] /**starting TC002
+2024-06-17 20:05:55,015 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\vyshu\eclipse-workspace\Opencart\master.xml
+
+2024-06-17 20:06:01,848 INFO t.TC002_LoginTest [main] /**starting TC002
+2024-06-17 20:06:24,569 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\vyshu\eclipse-workspace\Opencart\master.xml
+
+2024-06-17 20:06:31,369 INFO t.TC002_LoginTest [main] /**starting TC002
+2024-06-17 20:27:38,052 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\vyshu\eclipse-workspace\Opencart\master.xml
+
+2024-06-17 20:27:45,099 INFO t.TC002_LoginTest [main] /**starting TC002
+2024-06-17 20:49:45,172 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\vyshu\eclipse-workspace\Opencart\master.xml
+
+2024-06-17 20:49:48,858 INFO t.TC002_LoginTest [main] /**starting TC002
+2024-06-17 20:51:05,426 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\vyshu\eclipse-workspace\Opencart\master.xml
+
+2024-06-17 20:51:07,770 INFO t.TC002_LoginTest [main] /**starting TC002
+2024-06-17 20:52:29,591 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\vyshu\eclipse-workspace\Opencart\master.xml
+
+2024-06-17 20:52:31,997 INFO t.TC002_LoginTest [main] /**starting TC002
+2024-06-17 21:01:21,017 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\vyshu\eclipse-workspace\Opencart\master.xml
+
+2024-06-17 21:01:34,498 INFO t.TC002_LoginTest [main] /**starting TC002
+2024-06-17 21:04:13,407 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\vyshu\eclipse-workspace\Opencart\master.xml
+
+2024-06-17 21:04:18,247 INFO t.TC002_LoginTest [main] /**starting TC002
+2024-06-17 21:04:57,455 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\vyshu\eclipse-workspace\Opencart\master.xml
+
+2024-06-17 21:05:03,551 INFO t.TC002_LoginTest [main] /**starting TC002
+2024-06-17 21:06:13,771 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\vyshu\eclipse-workspace\Opencart\master.xml
+
+2024-06-17 21:06:16,305 INFO t.TC002_LoginTest [main] /**starting TC002
+2024-06-17 21:09:39,658 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\vyshu\eclipse-workspace\Opencart\master.xml
+
+2024-06-17 21:09:42,986 INFO t.TC002_LoginTest [main] /**starting TC002
+2024-06-17 21:09:54,552 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\vyshu\eclipse-workspace\Opencart\master.xml
+
+2024-06-17 21:09:58,656 INFO t.TC002_LoginTest [main] /**starting TC002

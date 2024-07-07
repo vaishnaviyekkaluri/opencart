@@ -1,0 +1,10 @@
+2024-07-05 18:33:47,095 INFO t.TC001_AccountRegistrationTest [main] ** starting tc001**
+2024-07-05 18:33:50,061 INFO t.TC001_AccountRegistrationTest [main] clicked on m register link
+2024-07-05 18:33:52,074 INFO t.TC001_AccountRegistrationTest [main] providing customer details
+2024-07-05 18:34:19,556 INFO t.TC002_LoginTest [main] /**starting TC002
+2024-07-05 18:34:21,113 INFO t.TC002_LoginTest [main] Finished login test.....
+2024-07-05 18:34:34,993 INFO t.TC003_LoginDDT [main] /**starting TC003
+2024-07-05 18:34:36,745 INFO t.TC003_LoginDDT [main] /**ended TC003
+2024-07-05 18:34:36,748 INFO t.TC003_LoginDDT [main] /**starting TC003
+2024-07-05 18:34:57,997 INFO t.TC003_LoginDDT [main] /**starting TC003
+2024-07-05 18:35:19,233 INFO t.TC003_LoginDDT [main] /**starting TC003
